@@ -50,6 +50,6 @@ DistilBERT with following hyperparameters:
 2. Vandana Sreenivasan - implemented SVM_and_BERT_Sentiment_analysis_nlp.ipynb
 
 ## File Details:
-1. SVM_and_BERT_Sentiment_analysis_nlp.ipynb - presents the exploration and implementation of the two models - SVM and BERT(using PyTorch)
+1. SVM_and_BERT_Sentiment_analysis_nlp.ipynb - presents the exploration and implementation of the two models - SVM and BERT.
 2. nlp_a3_final_implementation.ipynb - presents the final implementation of the five overall models along with the test and custom data results
 3. StopWords_removed_implementation.ipynb - presents the code and results for the five models where the text preprocessing steps included lemmatization and stop words removal. This is an experimental implementation to see the difference in model performance with the text preprocessing steps. It was observed that performance was slightly lower with stop words removed which could be attributed to the loss of data with stop words removed from short pieces of texts such as tweets, where the given dataset contained maximum length of tweets to be containing 33 words even without basic cleaning.
