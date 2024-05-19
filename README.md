@@ -8,7 +8,7 @@ Team Member Details:
 4. Zhuoqian Pan
 
 ## Project Aim:
-The purpose of this project is to examine the different nlp models for the purpose of analysing and predicting the type of emotion expressed on Social Media platform. For this reason, we have taken the Twitter dataset from the Hugging Face platform, containing around 5.05k labelled data records split between train, test and validation sets with four classes of emotions:\ 
+The purpose of this project is to examine the different NLP models for the purpose of analyzing the mental health state and predicting the different types of emotion expressed on Social Media platforms by the users. For this reason, we have taken the Twitter dataset from the Hugging Face platform, containing around 5.05k labeled data records split between train, test and validation sets with four classes of emotions:\ 
 0-> anger\
 1-> joy\
 2-> optimism\
@@ -20,7 +20,7 @@ Link: https://huggingface.co/datasets/tweet_eval
 
 ## Models Explored:
 1. Linear Support Vector Classifier (SVC)
-2. Bidrectional Long-Short Term Memory (BiLSTM)
+2. Bidirectional Long-Short Term Memory (BiLSTM)
 3. BERT
 4. RoBERTa
 5. DistilBERT
