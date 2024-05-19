@@ -28,13 +28,13 @@ Link: https://huggingface.co/datasets/tweet_eval
 ## Proposed Solution:
 Text Processing Steps using text_hammer include:
 1.   Changing to lower case
-2.   Exapnding words like you're to you are, i'm to I am
+2.   Expanding words like you're to you are, i'm to I am
 3.   Removing emails
-4.   Removing html tags
+4.   Removing HTML tags
 5.   Removing special characters like @, #, % etc
 6.   Removing accented characters like u^, `a etc
 
-DistilBERT with following hyperparameters:
+DistilBERT with the following hyperparameters:
 •	learning_rate: 1e-5\
 •	batch_size: 64\
 •	decay: 1e-8\
