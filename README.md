@@ -6,7 +6,9 @@ Team Member Details:
 2. Kamatchi Gnanavel
 3. Vandana Sreenivasan  
 4. Zhuoqian Pan
-
+## Note: If the preview of the code files is showing an error due to some rendering changes in GitHub, Please use https://nbviewer.org/ to view the respective files
+1. https://github.com/Kamatchi-23/NLP_A3_Group05/blob/main/SVM_and_BERT_Sentiment_analysis_nlp.ipynb
+2. 
 ## Project Aim:
 The purpose of this project is to examine the different NLP models for the purpose of analyzing the mental health state and predicting the different types of emotion expressed on Social Media platforms by the users. For this reason, we have taken the Twitter dataset from the Hugging Face platform, containing around 5.05k labeled data records split between train, test and validation sets with four classes of emotions:\ 
 0-> anger\
