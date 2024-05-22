@@ -42,6 +42,7 @@ Text Processing Steps using text_hammer include:
 6.   Removing accented characters like u^, `a etc
 
 DistilBERT with the following hyperparameters:
+
 •	learning_rate: 1e-5\
 •	batch_size: 64\
 •	decay: 1e-8\
