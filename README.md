@@ -59,3 +59,8 @@ DistilBERT with the following hyperparameters:
 1. SVM_and_BERT_Sentiment_analysis_nlp.ipynb - presents the exploration and implementation of the two models - SVM and BERT.
 2. nlp_a3_final_implementation.ipynb - presents the final implementation of the five overall models along with the test and custom data results
 3. StopWords_removed_implementation.ipynb - presents the code and results for the five models where the text preprocessing steps included lemmatization and stop words removal. This is an experimental implementation to see the difference in model performance with the text preprocessing steps. It was observed that performance was slightly lower with stop words removed which could be attributed to the loss of data with stop words removed from short pieces of texts such as tweets, where the given dataset contained maximum length of tweets to be containing 33 words even without basic cleaning.
+
+## References for code implementation:
+1. Cahyani, D. E., & Patasik, I. (2021). Performance comparison of TF-IDF and Word2Vec models for emotion text classification. Bulletin of Electrical Engineering and Informatics, 10(5), 2780–2788. https://doi.org/10.11591/eei.v10i5.3157
+2. Twitter Sentiment Analysis with BERT + RoBERTa 🐦. (n.d.). Kaggle.com. Retrieved May 22, 2024, from https://www.kaggle.com/code/mrehanzafar/twitter-sentiment-analysis-with-bert-roberta#Loading-the-data
+3. Text-Based Emotion Classification Using LTSM. (n.d.). Kaggle.com. Retrieved May 22, 2024, from https://www.kaggle.com/code/bastisei/text-based-emotion-classification-using-ltsm#Load-and-Prepare-Data
