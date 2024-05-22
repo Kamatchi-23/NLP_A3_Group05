@@ -14,7 +14,8 @@ If the preview of the code files is showing an error due to some rendering chang
 3. https://github.com/Kamatchi-23/NLP_A3_Group05/blob/main/nlp_a3_final_implementation.ipynb
    
 ## Project Aim:
-The purpose of this project is to examine the different NLP models for the purpose of analyzing the mental health state and predicting the different types of emotion expressed on Social Media platforms by the users. For this reason, we have taken the Twitter dataset from the Hugging Face platform, containing around 5.05k labeled data records split between train, test and validation sets with four classes of emotions:\ 
+The purpose of this project is to examine the different NLP models for the purpose of analyzing the mental health state and predicting the different types of emotion expressed on Social Media platforms by the users. For this reason, we have taken the Twitter dataset from the Hugging Face platform, containing around 5.05k labeled data records split between train, test and validation sets with four classes of emotions:
+
 0-> anger\
 1-> joy\
 2-> optimism\
