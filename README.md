@@ -1,12 +1,4 @@
 # NLP_A3_Group05
-This repository contains the code implementations along with the datasets for the Final NLP Group Project.\
-Subject Code: 42850\
-Team Member Details:
-1. Dayu Zhao
-2. Kamatchi Gnanavel
-3. Vandana Sreenivasan  
-4. Zhuoqian Pan
-   
 ## Note: 
 If the preview of the code files is showing an error due to some rendering changes in GitHub, Please use https://nbviewer.org/ to view the respective files
 1. https://github.com/Kamatchi-23/NLP_A3_Group05/blob/main/SVM_and_BERT_Sentiment_analysis_nlp.ipynb
@@ -52,10 +44,6 @@ DistilBERT with the following hyperparameters:
 ## Test Data Results Achieved:
 1. F1 score: 0.7917
 2. Accuracy: 0.7952
-
-## Contribution Towards Code Implementation:
-1. Kamatchi Gnanavel - implemented nlp_a3_final_implementation.ipynb and StopWords_removed_implementation.ipynb
-2. Vandana Sreenivasan - implemented SVM_and_BERT_Sentiment_analysis_nlp.ipynb
 
 ## File Details:
 1. SVM_and_BERT_Sentiment_analysis_nlp.ipynb - presents the exploration and implementation of the two models - SVM and BERT.
